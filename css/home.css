@@ -1,0 +1,60 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: #c19191;
+}
+table,th,td{
+  border: 1px solid #000;
+}
+.btn-name{
+  width: 100%;
+  padding: 20px 0px;
+}
+.btn-name .btn-primary{
+  padding: 10px 55px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #000;
+  background: #000;
+  border-radius: 2px;
+  margin: 0px 20px 0px 0px;
+}
+.btn-name .btn-primary:hover{
+  background: #fff;
+  color: #000;
+  border: 1px solid #fff;
+}
+.btn-name .btn-info{
+  padding: 10px 55px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 2px;
+  background: blue;
+}
+.btn-name .btn-info:hover{
+  background: #000;
+  color: #fff;
+  border: 1px solid #000;
+}
+.btn-reg{
+  width: 100%;
+  padding: 30px 0px;
+}
+.btn-reg .btn-primary{
+  padding: 10px 45px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #aaa;
+  background: 4d4d4d;
+  border-radius: 2px;
+  margin-left: 80px;
+}
+.btn-reg .btn-primary:hover{
+  background: #000;
+}
